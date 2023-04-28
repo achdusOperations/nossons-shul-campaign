@@ -1,0 +1,107 @@
+/*hero image*/
+.fs-header:before {
+    background-image: 
+   url("https://www.chabadone.org/media/images/1229/ssOp12290374.png");
+   background-size:100% 100%;
+   }
+   @media screen and (max-width: 700px) {
+   .fs-header:before {
+    background-image: 
+   url("https://www.chabadone.org/media/images/1229/NbMe12290745.png");
+   background-size:100% 100%;
+   }
+   }
+   
+   /*logo*/
+   img.fs-logo{
+   content: 
+   url("https://www.chabadone.org/media/images/1229/RSKA12290506.png");
+   background-size:100% 100%;
+   } 
+   /*lines around logo and space*/
+   .fs-logo-container .fs-bottom-triangle-border polygon {
+       fill:#0A042B;
+   }
+   .fs-header-top .fs-logo-container {
+   border: 4px solid #0A042B;
+   border-top:0;
+   background:#0A042B;
+   }
+   .fs-header-top {
+       border-bottom: 4px solid #0A042B;
+   background:#0A042B;
+   }
+   
+   .fs-logo-container .fs-bottom-triangle  polygon{
+   fill:#0A042B;
+   }
+   .fs-header-top .fs-logo-container:after, .fs-header-top .fs-logo-container:before {
+   background:#0A042B;
+   }
+   /*title in white*/
+   .fs-header .page-header h1 small, .fs-header .page-header h2 {
+   color:#FFF;
+   }
+   /*donate now and about campaign background color*/
+   .donate-button .donate-button-text {
+     background:#EC564F;
+   border-radius: 25px !important;
+   }
+   /*goal section*/
+   .jumbotron.fs-header {
+       border-bottom: 4px solid #EC564F;
+   }
+   .fs-goal{
+   background:#EC564F ;
+   }
+   .fs-goal .fs-goal-text strong {
+   color:#0A042B;
+   }
+   /*countdown*/
+   .fs-countdown {
+   background:#0A042B;
+   }
+   .fs-countdown .fs-countdown-widget .fs-countdown-unit .fs-countdown-description, .fs-countdown .fs-countdown-widget .fs-countdown-sep{
+   color:#EC564F;
+   }
+   /*donor listing*/
+   /*top line*/
+   .fs-partners>div{
+   border-top:6px solid #EC564F;
+   }
+   /*"our donors"*/
+   .text-center h3, .fs-partners h3 span {
+   color:#0A042B;
+   }
+   /*donor tag*/
+   .fs-partners .fs-partner-container .fs-partner {
+   background:#0A042B;
+   }
+   .fs-partner .fs-bottom-triangle  polygon{
+   fill:#0A042B;
+   }
+   .fs-partners .fs-partner-container .fs-partner .fs-partner-donation-amount, .fs-partners .fs-partner-container .fs-partner .fs-partner-name {
+   color:#FFF;
+   }
+   /*"view all donors"*/
+   .fs-btn{
+   background:#EC564F;
+   border-radius: 25px !important;
+   }
+   /*donate page*/
+   .fs-full-donate-form .fs-donate-body .fs-donate-section h3{
+   color:#0A042B;
+   }
+   .fs-full-donate-form .fs-donate-body .fs-donation-options .fs-donation-option.fs-other label.selected, .fs-full-donate-form .fs-donate-body .fs-donation-options .fs-donation-option.selected .fs-option-name>div {
+       color: #FFF;
+       background: #EC564F;
+       border: 1px solid #EC564F;
+   }
+   /*footer*/
+   .fs-footer {
+       background: #EC564F;
+       border-top: 1px solid #EC564F;
+   }
+   .fs-footer .row>div:nth-of-type(1) h3, .fs-footer .row>div:nth-of-type(2) h3 , address {
+   color:#FFF;
+   }
