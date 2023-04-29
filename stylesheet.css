@@ -72,7 +72,7 @@
 /*hero image*/
 .fs-header:before {
     background-image: 
-   url("https://www.chabadone.org/media/images/1229/ssOp12290374.png") !important;
+   url("https://www.chabadone.org/media/images/1229/ssOp12290374.png");
    background-size:100% 100%;
    }
    @media screen and (max-width: 700px) {
