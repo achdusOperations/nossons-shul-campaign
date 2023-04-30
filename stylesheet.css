@@ -1,7 +1,8 @@
 .the-first-thing {
 	doesnt: render;
 }
-@import url('https://fonts.googleapis.com/css2?family=Suez+One&display=swap');
+
+
 
 @font-face {
     font-family: 'Bauhaus Std';
@@ -67,6 +68,8 @@
     font-style: normal;
     font-display: swap;
 }
+
+@import url('https://fonts.googleapis.com/css2?family=Suez+One&display=swap');
 
 .fs-header .page-header h2, small.js-viewport-in.a-delay-100ms, .Bauhaus,html body.cco_body p.Bauhaus {
     font-family: 'Bauhaus Std', sans-serif !important;
