@@ -73,8 +73,8 @@
 .fs-header .page-header h2, small.js-viewport-in.a-delay-100ms, .Bauhaus,html body.cco_body p.Bauhaus {
     font-family: 'Bauhaus Std', sans-serif !important;
 }
-span.js-viewport-in.a-delay-200ms, .Suez,html body.cco_body p.Suez{
-    font-family: 'Suez One', serif;
+span.js-viewport-in.a-delay-200ms, .Suez,html body.cco_body p.Suez, strong.Suez{
+    font-family: 'Suez One', serif !important;
   
 }
 /*hero image*/
