@@ -72,7 +72,7 @@
 }
 
 
-.fs-header .page-header h2, small.js-viewport-in.a-delay-100ms, .Bauhaus,html body.cco_body p.Bauhaus {
+.fs-header .page-header h2, small.js-viewport-in.a-delay-100ms, .Bauhaus,html body.cco_body p.Bauhaus, body > div.fs-root.fs-pre-campaign > div > div.container.fs-about-partners-container > div > div.col-md-4.fs-partners.js-partners > div > h3 {
     font-family: 'Bauhaus Std', sans-serif !important;
 }
 span.js-viewport-in.a-delay-200ms, .Suez,html body.cco_body p.Suez, strong.Suez{
