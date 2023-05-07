@@ -199,6 +199,9 @@ span.js-viewport-in.a-delay-200ms, .Suez,html body.cco_body p.Suez, strong.Suez{
    .fs-donate{
     background: #EC564F;
    }
+   body > div.fs-root > div > div.fs-campaign-info > div > div > div.col-md-6.fs-donate.fs-donatable.text-center.vertical-align.d-js-viewport-in > div.fs-top-border-triangle > svg > polygon{
+    fill: #EC564F;
+   }
  
    /*donate button*/
    .fs-btn{
