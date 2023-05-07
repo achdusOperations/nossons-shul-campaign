@@ -187,3 +187,28 @@ span.js-viewport-in.a-delay-200ms, .Suez,html body.cco_body p.Suez, strong.Suez{
    .fs-footer .row>div:nth-of-type(1) h3, .fs-footer .row>div:nth-of-type(2) h3 , address {
    color:#FFF;
    }
+/*after campaigns starts/*
+   /*amount bar*/
+   .fs-goal .fs-goal-graph-container .fs-goal-graph .fs-goal-graph-fill{
+    background-color: #0A042B;;
+   }
+   h3.fs-countdown-message, .fs-countdown h3 strong {
+    color:#FFF;
+   }
+   /*donate section*/
+   .fs-donate{
+    background: #EC564F;
+   }
+   .fs-partner .fs-bottom-triangle  polygon{
+    fill:#EC564F;
+   }
+   /*donate button*/
+   .fs-btn{
+    background:#0A042B
+   }
+   /*dollar sign*/
+   .fs-donate .fs-donate-amounts{
+    color:#FFF;
+   }
+
+  
